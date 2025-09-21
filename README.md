@@ -60,6 +60,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 ### Hallucination Evaluation & Analysis
++ **HumbleBench** [Measuring Epistemic Humility in Multimodal Large Language Models] (Sep. 11, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2509.09658)
+  [![Star](https://img.shields.io/github/stars/abzb1/HumbleBench.svg?style=social&label=Star)](https://github.com/maifoundations/HumbleBench)
+
 + **HalLoc** [HalLoc: Token-level Localization of Hallucinations for Vision Language Models] (June. 12, 2025, CVPR 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10286)
 
